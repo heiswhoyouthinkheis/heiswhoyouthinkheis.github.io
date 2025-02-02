@@ -1,0 +1,31 @@
+html {
+  background-color: antiquewhite;
+  font-size: 10px;
+  font-style: "Open Sans";
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+}
+
+p,
+ul {
+  font-size: 16px;
+  text-wrap: 20;
+  line-height: 1.5;
+  letter-spacing: 1.5px;
+}
+
+ul {
+  color: blue;
+}
+
+img {
+  width: auto;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+}
